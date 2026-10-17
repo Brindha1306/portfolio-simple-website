@@ -14,7 +14,7 @@ The purpose of this project is to practice my HTML and CSS skills and build a si
 
 🚀 Getting Started
 Clone this repository:
-git clone URL
+git clone [URL](https://brindha1306.github.io/portfolio-simple-website/index.html)
 
 Open the project folder.
 Open the index.html file in your web browser.
